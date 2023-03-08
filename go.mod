@@ -1,4 +1,4 @@
-module github.com/galuhpradipta/honeybadger-test
+module github.com/galuhpradipta/slack-go
 
 go 1.18
 
